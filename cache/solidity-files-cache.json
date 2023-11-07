@@ -1,12 +1,12 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "C:\\Users\\pc1\\Code\\my-wave-portal\\contracts\\WavePortal.sol": {
-      "lastModificationDate": 1688849641664,
-      "contentHash": "d24613972468e229f29f8fd691e54725",
+    "/home/oraio/Code/my-wave-portal/contracts/WavePortal.sol": {
+      "lastModificationDate": 1699308515134,
+      "contentHash": "fe851d1d0c5485aee1f1e55b5fe7044d",
       "sourceName": "contracts/WavePortal.sol",
       "solcConfig": {
-        "version": "0.8.17",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -32,18 +32,18 @@
         "hardhat/console.sol"
       ],
       "versionPragmas": [
-        "^0.8.17"
+        "^0.8.19"
       ],
       "artifacts": [
         "WavePortal"
       ]
     },
-    "C:\\Users\\pc1\\Code\\my-wave-portal\\node_modules\\hardhat\\console.sol": {
-      "lastModificationDate": 1688836752486,
-      "contentHash": "e2884fb4e1ef4b4a7c7ac3a227880b0f",
+    "/home/oraio/Code/my-wave-portal/node_modules/hardhat/console.sol": {
+      "lastModificationDate": 1699304820383,
+      "contentHash": "896f68942c3a20e9ae3c3c5bfd3add54",
       "sourceName": "hardhat/console.sol",
       "solcConfig": {
-        "version": "0.8.17",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -67,7 +67,7 @@
       },
       "imports": [],
       "versionPragmas": [
-        ">= 0.4.22 <0.9.0"
+        ">=0.4.22 <0.9.0"
       ],
       "artifacts": [
         "console"
